@@ -1,16 +1,31 @@
-## Hi there 👋
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hey 👋 Soy AbrahamHC</h1></summary>
+  </ul>
+</div>
+<p>
 
-<!--
-**AbrahamHdezC/AbrahamHdezC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ☁️ Tengo gran interés en el desarrollo backend. estoy aprendiendo y creando nuevos proyectos con C#.
 
-Here are some ideas to get you started:
+- 🔭 Actualmente estoy trabajando como Desarrollador Web Jr, poniendo en práctica mis habilidades con C#, Angular y .NET.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 No dudes en comunicarte conmigo hernandez.c.abraham.00@gmail.com
+
+- <a href="https://porfolio-ahc.netlify.app/" target="_blank" rel="noopener">💼 Portfalio</a>
+</p>
+<br>
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Tecnologías y herramientas que conozco 👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,vite"><br><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,nest,cs,dotnet,postman,npm"><br><br>
+    <img src="https://skillicons.dev/icons?i=react,angular,mongodb,postgresql,prisma"><br><br>
+    <img src="https://skillicons.dev/icons?i=git,github,ubuntu,powershell,vscode&perline=14" />
+  </a>
+</p>

@@ -10,6 +10,8 @@
 - 🔭 Actualmente estoy trabajando como Desarrollador Web Jr, poniendo en práctica mis habilidades con C#, Angular y .NET.
 
 - 📫 No dudes en comunicarte conmigo hernandez.c.abraham.00@gmail.com
+  
+- 📫 Mi antiguo perfil <a href="https://github.com/AbrahamSHD" target="_blank" rel="noopener">AbrahamSHD</a>
 
 - <a href="https://porfolio-ahc.netlify.app/" target="_blank" rel="noopener">💼 Portfalio</a>
 </p>
